@@ -1,0 +1,58 @@
+html {
+  display: table;
+  margin: auto;
+  background-color: #f7f2e4;
+}
+
+body {
+  display: table;
+  vertical-align: middle;
+}
+
+.profilebutton {
+  margin-top: 20px;
+  background-color: black; 
+  border-radius: 5px; 
+  color: white; 
+  padding: 20px 100px;
+  border: none; 
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.75);
+}
+
+.sdlbutton {
+  margin-top: 20px;
+  background-color: black; 
+  border-radius: 5px; 
+  color: white; 
+  padding: 24px 60px;
+  border: none; 
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.75);
+  margin: 120px;
+}
+
+.buttonnamesdiv {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 20px;
+}
+
+.buttondiv {
+  padding-left: 80px;
+}
+
+.postsbutton {
+  margin-top: 20px;
+    background-color: black; 
+    border-radius: 5px; 
+    color: white; 
+    padding: 24px 60px;
+    border: none; 
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.75);
+    margin: 160px;
+  }
+
+.postsbuttonsection {
+  margin-top: 60px;
+  padding-left: 230px;
+} /*CSS*/ 
+
